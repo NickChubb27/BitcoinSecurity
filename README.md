@@ -6,6 +6,6 @@ A list of things you should be aware of to protect yourself from attackers when 
 - Before sending a bitcoin transaction to your hardware wallet, always verify the address on the hardware wallet screen itself.
 - Never give your seed to anyone.
 - Never put your seed remotely near the internet (cloud services, gmail drafts, etc)
-- Be very careful of what browser extentions you have installed. Personally, I use Electrum instead of a web wallet.
+- Be very careful of what browser extentions you have installed. Consider using Electrum.
 - Always purchase directly from the manufacturer. Not from eBay.
 - When copying and pasting bitcoin addresses on your computer, be sure that you are pasting the exact same address as you copied.
