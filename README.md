@@ -9,3 +9,4 @@ A list of things you should be aware of to protect yourself from attackers when 
 - Be very careful of what browser extentions you have installed. Consider using Electrum.
 - Always purchase directly from the manufacturer. Not from eBay.
 - When copying and pasting bitcoin addresses on your computer, be sure that you are pasting the exact same address as you copied.
+- Think. Don't panic. Before giving ANY information to anyone or downloading ANYTHING. Scammers will try to make you panic into downloading updates, or divulging your seed. Don't rush. Don't panic.
