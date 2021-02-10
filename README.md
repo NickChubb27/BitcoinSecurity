@@ -7,7 +7,8 @@ A list of things you should be aware of to protect yourself from attackers when 
 - Never give your seed to anyone.
 - Never type your seed into a computer. Only type it into the hardware wallet itself.
 - Never put your seed remotely near the internet (cloud services, gmail drafts, etc)
-- Be very careful of what browser extentions you have installed. Consider using Electrum.
+- Use a dedicated computer only for accessing this hardware wallet. IE: Don't use your general purpose laptop if possible.
+- Download Eletrum or Specter and verify that you've downloaded them correctly.
 - Always purchase directly from the manufacturer. Not from eBay.
 - When copying and pasting bitcoin addresses on your computer, be sure that you are pasting the exact same address as you copied.
 - Think. Don't panic. Before giving ANY information to anyone or downloading ANYTHING. Scammers will try to make you panic into downloading updates, or divulging your seed. Don't rush. Don't panic.
