@@ -5,6 +5,7 @@ A list of things you should be aware of to protect yourself from attackers when 
 - When opening a new device, make sure the tamper resistant seal has not been tampered with.
 - Before sending a bitcoin transaction to your hardware wallet, always verify the address on the hardware wallet screen itself.
 - Never give your seed to anyone.
+- Never type your seed into a computer. Only type it into the hardware wallet itself.
 - Never put your seed remotely near the internet (cloud services, gmail drafts, etc)
 - Be very careful of what browser extentions you have installed. Consider using Electrum.
 - Always purchase directly from the manufacturer. Not from eBay.
