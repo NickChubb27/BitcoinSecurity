@@ -2,6 +2,7 @@
 A list of things you should be aware of to protect yourself from attackers when using a hardware wallet.
 
 - Always set up / generate your seed yourself. If the device comes preloaded with a seed, reset the device with a new seed. Consider contacting the manufacturer and ask for a new device.
+- Once you have set up your seed and created a physical back up, send a small amount to your wallet. After that, wipe your device completely and then restore it using your seed backup. Once restored, verify that the small amount is still in your wallet, then verify that you can send those funds. This will confirm that you recorded the back up correctly.
 - When opening a new device, make sure the tamper resistant seal has not been tampered with.
 - Before sending a bitcoin transaction to your hardware wallet, always verify the address on the hardware wallet screen itself.
 - Never give your seed to anyone.
